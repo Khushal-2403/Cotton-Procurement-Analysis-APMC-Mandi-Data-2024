@@ -66,7 +66,8 @@ Procurement teams need clear insights into:
 
 ## 📁 Files in Repository
 - `Cleaned_Cotton_Data.xlsx` – Cleaned dataset  
-- `Cotton_Price_Procurement_Dashboard.pbix` – Power BI dashboard  
+- `Cotton_Price_Procurement_Dashboard.pbix` – Power BI dashboard
+- `Cotton_Procurement_Analysis.sql` - MySQL Query Script
 
 ---
 
